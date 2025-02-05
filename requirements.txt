@@ -1,0 +1,7 @@
+yfinance==0.2.31
+fastapi==0.103.1
+sqlalchemy==2.0.23
+pandas==2.1.1
+pytest==7.4.2
+uvicorn==0.23.2
+python-multipart==0.0.6
